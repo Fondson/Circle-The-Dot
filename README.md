@@ -7,7 +7,3 @@ The computer uses a **breadth-first search** approach to try and escape from the
 
 - Undo/Redo move functionality
 - Game state serialization for saving current game
-
-# Screenshots
-
-<img src="https://puu.sh/oKJtb/3a40fe7767.png" width="332px" height="367px" /> <img src="https://puu.sh/oKJxi/274942df1c.png" width="332px" height="367px" />
